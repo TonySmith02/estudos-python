@@ -1,4 +1,4 @@
-# estudos-python
+# Estudos-python
 
 ## Introdução ao Python
 
