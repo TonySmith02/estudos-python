@@ -22,3 +22,30 @@ else
     Instrução 3
     Instrução 4
     '''
+
+### Uma identação consistente no código, evita erros de sintaxe.
+
+# No Python exitem dois modos de realizar comentários.
+
+# Este é um comentário de uma única linha
+
+'''
+Este é um comentário
+de várias linhas
+'''
+
+# O Python faz a distinção entre MAIÚSCULAS e minúsculas. Portante, variável, Variávl e VARIÁVEL são consideradas diferentes. Atenção!
+
+'''
+Diferente de outras linguagens, o Python não requer o uso de ponto e vírgula (;) ao final de cada instrução.
+No Entanto, se você desejar escrever várias instruções em uma única linha, pode separá-las com um ponto e vírgula. Por exemplo:
+
+instrucao1; instrucao2; instrucao3
+'''
+
+
+'''
+Os parênteses são utilizados para agrupar expressões, definir e realizar chamadas as funções. por exemplo:
+
+resultado = (a + b) * c
+'''
